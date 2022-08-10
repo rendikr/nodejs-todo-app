@@ -1,0 +1,19 @@
+{
+  "name": "hangry",
+  "version": "1.0.0",
+  "description": "Hangry Backend Technical Test by Rendi K.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rendikr/nodejs-todo-app.git"
+  },
+  "author": "Rendi K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendikr/nodejs-todo-app/issues"
+  },
+  "homepage": "https://github.com/rendikr/nodejs-todo-app#readme"
+}
